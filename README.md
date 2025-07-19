@@ -30,7 +30,7 @@ Python, Machine learning, Deep Learning...
 
 ⚡ Fun fact: ...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="danypetkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvap914&show_icons=true&locale=en" alt="danypetkar" /></p>
 
 ### :fire: My Stats :
 
