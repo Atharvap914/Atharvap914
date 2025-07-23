@@ -1,50 +1,83 @@
-## Hi 👋, I'm Atharva Patki
-## 🚀 About Me
-AI/ML Enthusiast | Building Hybrid Models | Python & Deep Learning Explorer
+# 👋 Hi, I'm Atharva Patki
 
+### 🚀 AI/ML Enthusiast | Deep Learning Explorer | Hybrid Model Builder
 
-# Hi, I'm Atharva! 👋
+I'm passionate about building smart AI systems, especially hybrid models that combine traditional ML with deep learning. I love working on image classification, model optimization, and finding innovative ways to improve accuracy using techniques like CNN, VGG16, PCA, and XGBoost.
 
+---
 
-## 🔗 Link
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-patki-3451581bb)
+## 🔗 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-patki-3451581bb)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvapatki.ml@gmail.com)
 
+---
 
-## 🛠 Skills
-- **Machine Learning:** Scikit-learn, XGBoost, PCA, Feature Engineering, Model Evaluation
-- **Deep Learning:** TensorFlow, Keras, CNNs, VGG16, Transfer Learning, Image Classification
-- - **NLP:** Text Preprocessing, TF-ID
-  - - **Tools & Libraries:** Pandas, NumPy, Matplotlib, OpenCV, Jupyter, Git, Colab
-- **Deployment (Basic):** Streamlit, Flask
+## 🛠 Skills & Tools
 
+### 📚 Machine Learning
+`Scikit-learn` · `XGBoost` · `PCA` · `Feature Engineering` · `Model Evaluation`
 
-🔭 I’m currently working on **hybrid deep learning models for medical image classification using CNN, VGG16, PCA, and XGBoost**
+### 🧠 Deep Learning
+`TensorFlow` · `Keras` · `CNN` · `VGG16` · `Transfer Learning` · `Image Classification`
 
-🌱 I’m currently learning **Natural Language Processing (NLP), model deployment (Streamlit & Flask), and advanced deep learning techniques**
+### 📄 Natural Language Processing (Basics)
+`Text Preprocessing` · `TF-IDF` · `Word Embeddings`
 
-👯 I’m looking to collaborate on **AI/ML research projects, image & text classification problems, and real-world data science challenges**
+### 🧰 Tools & Libraries
+`Pandas` · `NumPy` · `OpenCV` · `Matplotlib` · `Seaborn` · `Jupyter` · `Google Colab` · `Git`
 
-🤔 I’m looking for help with **improving model accuracy, optimizing training pipelines, and contributing to open-source ML projects**
+### 🚀 Deployment (Basics)
+`Streamlit` · `Flask`
 
-💬 Ask me about **CNNs, Transfer Learning, PCA, XGBoost, model evaluation, image preprocessing, and beginner-friendly AI projects**
+---
 
-📫 How to reach me: **atharvapatki.ml@gmail.com**
+## 🧩 Currently Working On
 
-😄 Pronouns: **He/Him**
+- 🔬 **Medical image classification** using CNN + PCA + XGBoost
+- 📊 Improving hybrid model accuracy with feature-level fusion and dimensionality reduction
+- 🧪 Experimenting with NLP pipelines and deployment on Streamlit/Flask
 
-⚡ Fun fact: **I can spend hours training a model — and even more hours trying to improve its accuracy by 1% 😄**
+---
 
+## 💡 Looking For
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharvap914&show_icons=true&locale=en" alt="Atharvap914" /></p>
+- 🤝 Collaboration on AI/ML research or open-source ML projects
+- 🧠 Learning advanced deep learning (like attention models, transformers)
+- 💬 Sharing knowledge and helping others in their ML journey
 
-### :fire: My Stats :
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atharvap914&theme=dark&background=000000)](https://git.io/streak-stats)
+## 💬 Ask Me About
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharvap914&label=Profile%20views&color=0e75b6&style=flat" alt="Atharvap914r" /> </p>
+- CNNs, Transfer Learning, Image Preprocessing
+- Feature Extraction (PCA), Boosting (XGBoost)
+- Beginner ML Projects, Model Evaluation
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atharvap914&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+## ✨ Fun Fact
+I can spend hours training a model — and **even more hours** tuning hyperparameters to improve accuracy by just **1% 😄**
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharvap914&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharvap914&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharvap914&theme=onedark&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharvap914&label=Profile%20views&color=0e75b6&style=flat" alt="Atharvap914" />
+</p>
